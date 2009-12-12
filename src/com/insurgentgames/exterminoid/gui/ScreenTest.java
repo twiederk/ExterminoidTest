@@ -1,5 +1,7 @@
 package com.insurgentgames.exterminoid.gui;
 
+import com.insurgentgames.exterminoid.gui.screen.AbstractScreen;
+
 import junit.framework.TestCase;
 
 public class ScreenTest extends TestCase {
